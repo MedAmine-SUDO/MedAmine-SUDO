@@ -17,7 +17,13 @@ production incidents by 50% and improving processing performance by 40%.
 - [comext-trade-pipeline](https://github.com/MedAmine-SUDO/comext-trade-pipeline) — Trade data pipeline
 
 ## Currently
-- Contributing to open source data engineering tools
-- Building MCP servers and data quality utilities
+- Writing up a case study on migrating a multi-tenant EdTech data platform
+  from Celery to Airflow (MWAA) — link coming soon
+- Open to freelance/contract data engineering work: ETL design, Airflow
+  migrations, AWS pipeline builds
+- Always happy to talk shop about orchestration tooling — feel free to open
+  an issue or DM on LinkedIn
 
-📫 medaminebenafia@hotmail.com
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,aws,postgres,mysql,docker,react,git" />
+</p>
