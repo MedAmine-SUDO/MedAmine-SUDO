@@ -4,7 +4,7 @@
 Celery → Apache Airflow (MWAA) migration serving hundreds of schools, cutting
 production incidents by 50% and improving processing performance by 40%.
  
-📄 [Resume](#) · 💼 [LinkedIn](https://linkedin.com/in/mabenafia) · ✉️ medaminebenafia@hotmail.com
+📄 [Resume](https://github.com/MedAmine-SUDO/MedAmine-SUDO/blob/main/Mohamed_Amine_Ben_Afia_Resume.pdf) · 💼 [LinkedIn](https://linkedin.com/in/mabenafia) · ✉️ medaminebenafia@hotmail.com
 
 ## What I Do
 - **Orchestration:** Apache Airflow (MWAA), Celery → Airflow migrations
