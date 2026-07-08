@@ -1,6 +1,10 @@
 # Mohamed Amine Ben Afia
 
-Data Engineer with 4+ years building ETL pipelines and cloud infrastructure on AWS.
+🔧 4+ years building ETL pipelines and cloud data infrastructure — led a 150+ task
+Celery → Apache Airflow (MWAA) migration serving hundreds of schools, cutting
+production incidents by 50% and improving processing performance by 40%.
+ 
+📄 [Resume](#) · 💼 [LinkedIn](https://linkedin.com/in/mabenafia) · ✉️ medaminebenafia@hotmail.com
 
 ## What I Do
 - **Orchestration:** Apache Airflow (MWAA), Celery → Airflow migrations
