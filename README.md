@@ -11,17 +11,7 @@
 
 <br/>
 
-I build **ETL pipelines and cloud data platforms** — 4+ years of making data show up on time, correct, and boring.
-
-Most recently I led a **150+ task Celery → Apache Airflow (MWAA) migration** for a multi-tenant EdTech platform serving hundreds of schools:
-
-<table>
-  <tr>
-    <td align="center"><h2>−50%</h2>production incidents</td>
-    <td align="center"><h2>+40%</h2>processing performance</td>
-    <td align="center"><h2>150+</h2>tasks migrated</td>
-  </tr>
-</table>
+I build **ETL pipelines and cloud data platforms** — 4+ years of making data show up on time, correct, and boring. Most recently I led a Celery → Apache Airflow (MWAA) migration for a multi-tenant EdTech platform serving hundreds of schools.
 
 ## 🛠️ Stack
 
