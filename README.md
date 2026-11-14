@@ -5,7 +5,6 @@
 <a href="https://linkedin.com/in/mabenafia"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/MedAmine-SUDO/MedAmine-SUDO/blob/main/Mohamed_Amine_Ben_Afia_Resume.pdf"><img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
 <a href="mailto:medaminebenafia@hotmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Open_to-freelance_%26_contract-16a34a?style=for-the-badge" alt="Open to freelance and contract work" />
 
 </div>
 
