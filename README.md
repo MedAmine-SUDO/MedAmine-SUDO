@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:1e40af&text=Mohamed%20Amine%20Ben%20Afia&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Data%20Engineer%20%C2%B7%20Pipelines%20that%20don't%20page%20you%20at%203am&descAlignY=58&descSize=16" alt="Mohamed Amine Ben Afia — Data Engineer" width="100%" />
+<img src="assets/banner.svg" alt="Mohamed Amine Ben Afia — Data pipelines that don't fail silently. 150+ Celery tasks to Airflow, 40% faster, 50% fewer incidents." width="100%" />
 
 <a href="https://linkedin.com/in/mabenafia"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/MedAmine-SUDO/MedAmine-SUDO/blob/main/Mohamed_Amine_Ben_Afia_Resume.pdf"><img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
